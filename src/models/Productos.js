@@ -6,9 +6,11 @@ const Productosmodel = new Schema({
     Descripcion:{type:String},
     Precio:{type:String},
     Ws:{type:String},
-    Faceboock:{type:String},
+    Facebook:{type:String},
     Imagenprincipa:{type:String},
-    ColeccionImagen:[]
+    ColeccionImagen:[],
+    Tipo:{type:String},
+    Categoria:{type:String}
   
 })
 module.exports = model('Productos' , Productosmodel)

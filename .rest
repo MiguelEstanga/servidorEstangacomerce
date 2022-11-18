@@ -1,0 +1,15 @@
+PATCH  http://localhost:4000/Actualizar/63547f22014e0d2df120baf4 
+Content-Type:"application/json"
+
+{
+  "Nombre":"Chromeboock g4 14",
+  "Descripcion":"Hp chromeboock g4 14 4g de ram 120g de disco ampliable hasta 1tera 14.4pulgada procesador celeron n 2940 2.0gh  sistema operativo windows 10",
+  "Ws":"04263821517",
+  "Preico":"1902",
+  "Tipo":"0"
+}
+###
+GET http://localhost:4000/CompuData/Chomeboock g5 11 win 10
+Content-Type:"application/json"
+
+###
